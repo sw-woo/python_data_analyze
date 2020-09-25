@@ -1,0 +1,2 @@
+# python_data_analyze
+python_data_analyze : basic lecture_pandas_numpy_matplotlib_tesnsorflow
